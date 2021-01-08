@@ -5,7 +5,7 @@
   </div>
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  <img height="600px" class="center-block" src="https://d33wubrfki0l68.cloudfront.net/cb41dd8e38b0543a305f9c56db89b46caa802263/25192/assets/images/book-cover.jpg">
   </div>
 </div>
 <!--
