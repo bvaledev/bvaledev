@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
 <!--
 **bvaledev/bvaledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
