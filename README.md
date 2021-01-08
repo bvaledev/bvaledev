@@ -2,6 +2,14 @@
 Trabalho como desenvolvedor desde 2018, atualmente trabalho como Fullstack. Desenvolvo aplicativos on demand, utilizando padrões de projetos, design patterns, TDD, CI, CD e também conceitos e técnicas de UX para a interface. Estou transitando de formação, de Publicidade e Propaganda para Sistemas de Informação.
 #
 
+|  |                      |
+| ------- | -------------------- |
+| ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
+
+
+
+
+
 **🌱 Atualmente estou estudando**
 
 - React TDD
@@ -21,9 +29,6 @@ Trabalho como desenvolvedor desde 2018, atualmente trabalho como Fullstack. Dese
 - Amante da arte, anatomia e esculturas
 - Faço modelagem em 3D com zBrush
 
-![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br)
 <!--
 **bvaledev/bvaledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
