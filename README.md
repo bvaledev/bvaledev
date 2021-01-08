@@ -1,13 +1,29 @@
-### Hi there 👋
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="https://d33wubrfki0l68.cloudfront.net/cb41dd8e38b0543a305f9c56db89b46caa802263/25192/assets/images/book-cover.jpg">
-  </div>
-</div>
+### 👋 **Olá, eu sou Brendo Vale**
+Trabalho como desenvolvedor desde 2018, atualmente trabalho como Fullstack. Desenvolvo aplicativos on demand, utilizando padrões de projetos, design patterns, TDD, CI, CD e também conceitos e técnicas de UX para a interface. Estou transitando de formação, de Publicidade e Propaganda para Sistemas de Informação.
+#
+
+**🌱 Atualmente estou estudando**
+
+- React TDD
+- Flutter TDD
+#
+**📫 Como me encontrar**
+
+|  |                      |
+| ------- | -------------------- |
+| E-mail  | <brendo@brendo.dev.br> |
+| Linkedin  | [linkedin/brendo](https://www.linkedin.com/in/brendomkt/) |
+
+#
+**⚡ Curiosidades**
+
+- Tenho alguns Projetos em PHP/Laravel Ocultos
+- Amante da arte, anatomia e esculturas
+- Faço modelagem em 3D com zBrush
+
+![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br)
 <!--
 **bvaledev/bvaledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
