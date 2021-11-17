@@ -5,8 +5,9 @@ Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e tr
 | ------- | -------------------- |
 
 **🌱 Atualmente estou estudando**
-- React TDD
-- Flutter TDD
+- Arquitetura Limpa
+- Código Limpo
+- Domain Driven Design
 #
 **📫 Como me encontrar**
 
