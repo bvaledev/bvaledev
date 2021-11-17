@@ -11,7 +11,7 @@ Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e tr
 #
 **📫 Como me encontrar**
 
-| **E-mail**  | **<brendo@brendo.dev.br>** |
+| **E-mail**  | **<brendo@moveeup.com>** |
 | ------- | -------------------- |
 | **Linkedin**  | **[linkedin/brendo](https://www.linkedin.com/in/brendomkt/)** |
 
