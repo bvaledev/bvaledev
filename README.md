@@ -1,5 +1,5 @@
 ### 👋 **Olá, eu sou Brendo Vale**
-Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e trabalho com: MongoDB, React, NextJS, React Native, Flutter, testes de Unidade e Integração utilizando o Jest. Tenho conhecimento em processos da experiência do usuário e desenvolvimento de produtos, tenho algumas certificados de UI/UX. Autodidata, apaixonado em aprender e ensinar. Nas horas vagas procuro fazer cursos para me manter atualizado e tenho hábito de leitura com tema teórico.
+Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e trabalho com: React, NextJS, React Native, Flutter, testes com Jest. Tenho conhecimento em processos da experiência do usuário e desenvolvimento de produtos, tenho algumas certificados de UI/UX. Autodidata, apaixonado em aprender e ensinar. Nas horas vagas procuro fazer cursos para me manter atualizado e tenho hábito de leitura com tema teórico.
 <!--
 | ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
