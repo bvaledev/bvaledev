@@ -6,7 +6,7 @@ I'm studying English to improve my skills to learn other things more fast.
 | ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
 -->
-**🌱 I'm currently studying**
+**🌱 I like to study about**
 - Clean Architecture
 - Clean Code
 - Domain Driven Design
