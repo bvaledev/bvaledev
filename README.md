@@ -16,7 +16,7 @@ I'm studying English to improve my skills to learn other things more fast.
 | **E-mail**  | **<brendo@brendo.dev.br>** |
 | ------- | -------------------- |
 | **Linkedin**  | **[linkedin/brendo](https://www.linkedin.com/in/brendodev/)** |
-| **Resume**  | **[linkedin/brendo](https://brendo.dev.br/about)** |
+| **Resume**  | **[brendo.dev.br](https://brendo.dev.br/about)** |
 
 <!--
 #
