@@ -1,4 +1,4 @@
-### 👋 **Heelo, my name is Brendo Vale**
+### 👋 **Hi, my name is Brendo Vale**
 I'm a fullstack developer, my stack is JavaScript with NodeJS and React, Jest for test creation on front-end and back-end. Love to read technical book about technology, marketing and design, and not only that, I love to teach. Likewise, I have knowledge in UX and UI, product design and in my leisure I study on online courses related generally to software development, design patterns and others.
 
 I'm studying English to improve my skills to learn other things more fast.
