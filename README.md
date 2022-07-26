@@ -11,19 +11,18 @@ Sou desenvolvedor fullstack especializado em backend com NodeJs, Typescript e tr
 #
 **📫 Como me encontrar**
 
-| **E-mail**  | **<brendo@moveeup.com>** |
+| **E-mail**  | **<brendo@brendo.dev.br>** |
 | ------- | -------------------- |
-| **Linkedin**  | **[linkedin/brendo](https://www.linkedin.com/in/brendomkt/)** |
+| **Linkedin**  | **[linkedin/brendo](https://www.linkedin.com/in/brendodev/)** |
+| **Website**  | **[linkedin/brendo](https://brendo.dev.br/about)** |
 
-
+<!--
 #
 **⚡ Curiosidades**
 
-- Tenho alguns Projetos em PHP/Laravel e React Ocultos 🤔
 - Amante da arte, anatomia e esculturas
-- Faço modelagem em 3D com zBrush
 
-<!--
+
 **bvaledev/bvaledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
