@@ -1,4 +1,4 @@
-### 👋 **Olá, eu sou Brendo Vale**
+### 👋 **Heelo, my name is Brendo Vale**
 I'm a fullstack developer, my stack is JavaScript with NodeJS and React, Jest for test creation on front-end and back-end. Love to read technical book about technology, marketing and design, and not only that, I love to teach. Likewise, I have knowledge in UX and UI, product design and in my leisure I study on online courses related generally to software development, design patterns and others.
 
 I'm studying English to improve my skills to learn other things more fast.
@@ -6,17 +6,17 @@ I'm studying English to improve my skills to learn other things more fast.
 | ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
 -->
-**🌱 Atualmente estou estudando**
-- Arquitetura Limpa
-- Código Limpo
+**🌱 I'm currently studying**
+- Clean Architecture
+- Clean Code
 - Domain Driven Design
 #
-**📫 Como me encontrar**
+**📫 How can you talk to me**
 
 | **E-mail**  | **<brendo@brendo.dev.br>** |
 | ------- | -------------------- |
 | **Linkedin**  | **[linkedin/brendo](https://www.linkedin.com/in/brendodev/)** |
-| **Website**  | **[linkedin/brendo](https://brendo.dev.br/about)** |
+| **Resume**  | **[linkedin/brendo](https://brendo.dev.br/about)** |
 
 <!--
 #
