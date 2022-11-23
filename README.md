@@ -1,9 +1,11 @@
-### 👋 **Hi, my name is Brendo Vale**
+### 👋 **Olá, eu sou o Brendo**
+
 Sou desenvolvedor fullstack com foco no backend, estou estudando para me especializar em arquitetura de software. Trabalho com node, react, criação de testes automatizados e as melhores práticas de desenvolvimento do mercado. Gosto de ler livros técnicos relacionados a tecnologia, marketing e negócios. Também tenho conhecimento em UX e UI, product design. No meu tempo livre, gosto de estudar em cursos online, geralmente com conteúdos sobre tecnologia, design patterns e arquitetura.
 
 Um dos meus desejos de vida é ser professor!
 
 I'm studying English to improve my comunication skills.
+
 <!--
 | ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
