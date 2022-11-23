@@ -16,8 +16,7 @@ I'm studying English to improve my comunication skills.
 - Domain Driven Design
 - Engenharia de Software
 
-#
-**📫 Meus canais de comunicação*
+**📫 Meus canais de comunicação **
 
 | **E-mail**  | **<brendo@brendo.dev.br>** |
 | ------- | -------------------- |
