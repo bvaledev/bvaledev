@@ -10,14 +10,14 @@ I'm studying English to improve my comunication skills.
 | ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
 -->
-**🌱 I like to study about**
+**🌱 Gosto de estudar sobre **
 - Clean Architecture
 - Clean Code
 - Domain Driven Design
 - Engenharia de Software
 
 #
-**📫 How can you talk to me**
+**📫 Meus canais de comunicação*
 
 | **E-mail**  | **<brendo@brendo.dev.br>** |
 | ------- | -------------------- |
