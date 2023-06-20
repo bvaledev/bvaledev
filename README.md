@@ -1,21 +1,9 @@
 # 👋 **Olá, eu sou o Brendo**
 
-Sou desenvolvedor fullstack com foco no backend, estou estudando para me especializar em arquitetura de software. Trabalho com node, react, criação de testes automatizados e as melhores práticas de desenvolvimento do mercado. Gosto de ler livros técnicos relacionados a tecnologia, marketing e negócios. Também tenho conhecimento em UX e UI, product design. No meu tempo livre, gosto de estudar em cursos online, geralmente com conteúdos sobre tecnologia, design patterns e arquitetura.
+Sou um desenvolvedor fullstack focado em backend e arquitetura de software. Crio soluções escaláveis e eficientes, aplicando testes automatizados e as melhores práticas de desenvolvimento. Tenho interesse em arquitetura de software, UX e UI, buscando constantemente aprender e aplicar os padrões mais recentes. Além disso, sou apaixonado por compartilhar conhecimento e tenho o objetivo de me tornar um professor. No meu tempo livre, estudo em cursos online, especialmente sobre tecnologia, design patterns e arquitetura. Estou em constante busca por aprimoramento, incluindo minhas habilidades de comunicação, por meio do estudo do inglês.
 
-Um dos meus desejos de vida é ser professor!
-
-I'm studying English to improve my comunication skills.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br)
 <!--
-| ![Estatísticas do github de Brendo](https://github-readme-stats.vercel.app/api?username=bvaledev&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaledev&hide=javascript&layout=compact&locale=pt-br) |
-| ------- | -------------------- |
--->
-## 🌱 Gosto de estudar sobre
-- Clean Architecture
-- Clean Code
-- Domain Driven Design
-- Engenharia de Software
-
 ## 📫 Meus canais de comunicação
 
 | **E-mail**  | **<brendo@brendo.dev.br>** |
@@ -23,7 +11,7 @@ I'm studying English to improve my comunication skills.
 | **Linkedin**  | **[linkedin/brendo](https://www.linkedin.com/in/brendodev/)** |
 | **Resume**  | **[brendo.dev.br](https://brendo.dev.br/about)** |
 
-<!--
+
 #
 **⚡ Curiosidades**
 
